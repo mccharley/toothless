@@ -1,2 +1,1 @@
-# toothless
-a test repository for learning git CLI
+# toothless a test repository for learning git CLI
